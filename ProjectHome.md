@@ -1,0 +1,1 @@
+A basic POS (PDV for brazilians) system. (under development)
